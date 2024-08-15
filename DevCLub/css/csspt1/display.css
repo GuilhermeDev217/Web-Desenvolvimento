@@ -1,0 +1,39 @@
+.box{
+    height: 50px;
+    width: 50px;
+    background: royalblue;
+
+}
+.box2{
+    background: red;
+
+}
+.box3{
+    background: purple;
+}
+
+/* DISPLAY
+
+
+    - block
+    - inline-block
+ 
+
+    -grid
+    -flex
+
+    -BLOCK
+    ocupa toda a linha
+    altura defina de acordo com o conteudo
+    podemos definir margin
+    podemos definir altura e largura
+
+    -INLINE
+    elementos ficam em linha
+    nao permite definir largura e altura
+    na podemos definir valores de top e bottom na margin
+    ganha comportamento de uma palavra
+
+    -INLINE-BLOCK
+    elementos em linha porem com caracteristica do display block
+    altura e largura podem ser alteradas

@@ -1,0 +1,11 @@
+/* elementos que nao sao alterados normalmente
+
+por exemplo:
+
+input::placeholder {    assim eu posso mudar o texto do fundo do input
+
+p::first-letter{ muda a primeira letra do paragrafo
+
+a::before/after{ colocar algo antes ou depois do link
+    content:"conteudo";
+

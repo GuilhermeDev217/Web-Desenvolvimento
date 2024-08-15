@@ -1,0 +1,59 @@
+
+ /* # chama o ID(identificador indivudual)*/
+
+ /* . chama a class (identificardor de grupo)*/
+
+/* line-height espaça os textos*/
+
+/* letter spacing espaçamento entra as letras*/
+
+/* text align: center, etc centraliza o texto
+
+    - text-transform: uppercase deixa todas letras maisusculas
+
+    - text-decoration: underline/etc coloca uma linha embaixo do texto e links
+
+    - text-shadow:(tamanho sombra na horizontal) (sombra na vertical) (quao esfumaçada) (cor da sombra)
+
+    
+
+#titulo {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#parag {
+    background: chocolate;
+}
+
+#botao {
+    background: rebeccapurple;
+}
+
+
+.botao {
+    color: yellow;
+}
+
+
+/* CSS = folha de estilo em cascata! (de cima pra baixo)*/
+
+/* UNIDADES DE MEDIDA
+    
+-> Absolutas
+
+    px (pixels)
+
+-> Relativas
+
+    vw (view width) 1% da largura do navegador    |  ambos se ajustao a tela, seja de pc ou cllr
+    vh (view height) 1% da altura do navegador    |
+
+
+
+
+
+
+
+*/

@@ -1,0 +1,18 @@
+/*
+    active quando o elemento esta sendo ativado ou pressionado
+    visited pode mudar o elemento quando o link for visitado
+    hover passar o mouse em cima do elemento muda ele
+    checked quando clicar numa checkbox ele faz um ação
+    disable desabilita a função
+    enable habilita a função
+    focus quando o elemento esta selecionado
+    read-only nao deixa alterar as letras do input
+    empty elemento que nao tem filho
+
+    first-child pode estilizar apenas o primeiro elemento de uma divisao
+    first-of-type estiliza o primeiro daquele tipo o classe
+    last-child 
+    last-of-type
+    :not() nao estiliza o elemento ou classe selecionada
+    :nth-chind() escolhe o elemento ou classe selecionada
+    :nth-last-child() faz o mesmo porem de tras pra frente

@@ -1,0 +1,7 @@
+/* Postions
+
+static (padrao) nao aceita top bottom left e right
+fixed fica o elemento na tela, mesmo se rolar pra baixo
+sticky fica como uma desivo e fixa onde for determinado
+relative relativo a posição inicial dele
+absolute fica no local absoluto e a na frente de outros elementos da div
